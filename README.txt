@@ -1,0 +1,1 @@
+This is a work in progress. For now, I'd recommend ignoring it, but if you really want to check it out, it uses Pygame and Python 2.7. It does very, very little right now, but that should change, as time goes on.

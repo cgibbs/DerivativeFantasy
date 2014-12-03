@@ -1,0 +1,4 @@
+*global player inventory
+*item classes and methods
+*basic player and enemy classes
+*basic combat loop
